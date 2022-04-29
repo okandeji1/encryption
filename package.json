@@ -1,0 +1,14 @@
+{
+  "name": "nodepro",
+  "version": "1.0.0",
+  "description": "encryption and decryption project",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Okandeji",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
